@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="pt">
+  <p>
+    <s>
+      <t>Bem</t>
+      <t>vindo</t>
+      <t>ao</t>
+      <t>mundo</t>
+      <t>da</t>
+      <t>síntese</t>
+      <t>de</t>
+      <t>voz</t>
+      <t>!<t/>
+    </s>
+  </p>
+</maryxml>
